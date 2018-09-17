@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Mobile_Apk_Test]">
+  <test name="Login_Test(failed)" preserve-order="false">
+    <classes>
+      <class name="com.mobile.testcases.Login">
+        <methods>
+          <include name="doAfterTest"/>
+          <include name="doBeforeTest"/>
+          <include name="doBeforeSuite"/>
+          <include name="doAfterSuite"/>
+          <include name="doAfterClass"/>
+          <include name="testLogin"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

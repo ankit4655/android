@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mobile_Apk_Test">
+
+ <test name="Login">
+    <classes>
+      <class name="com.mobile.testcases.Login"/>
+    </classes>
+  </test>
+  
+
+  
+<!--    <test name="ApplyCouponLessThan1000"> -->
+<!--     <classes> -->
+<!--       <class name="com.mobile.testcases.ApplyCouponLessThan1000Test"/> -->
+<!--     </classes> -->
+<!--   </test> -->
+  
+<!--    <test name="ApplyCouponMoreThan1000"> -->
+<!--     <classes> -->
+<!--       <class name="com.mobile.testcases.ApplyCouponMoreThan1000Test"/> -->
+<!--     </classes> -->
+<!--   </test> -->
+ 
+<!--     <test name="PlaceOrderTest"> -->
+<!--     <classes> -->
+<!--       <class name="com.mobile.testcases.PlaceOrderTest"/> -->
+<!--     </classes> -->
+<!--   </test>  -->
+  
+<!--     <test name="PlaceOrderChangeStoreTest"> -->
+<!--     <classes> -->
+<!--       <class name="com.mobile.testcases.PlaceOrderChangeStoreTest"/> -->
+<!--     </classes> -->
+<!--   </test> -->
+  
+<!--   <test name="CancelOrderTest"> -->
+<!--     <classes> -->
+<!--       <class name="com.mobile.testcases.CancelOrderTest"/> -->
+<!--     </classes> -->
+<!--   </test> -->
+
+
+<!--     <test name="SearchTest"> -->
+<!--     <classes> -->
+<!--       <class name="com.mobile.testcases.SearchTest"/> -->
+<!--     </classes> -->
+<!--   </test> -->
+  
+<!--     <test name="OrderDetails"> -->
+<!--     <classes> -->
+<!--       <class name="com.mobile.testcases.OrderDetails"/> -->
+<!--     </classes> -->
+<!--   </test> -->
+  
+
+
+  
+</suite>
